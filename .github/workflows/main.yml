@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  my_jp-ob:
+  my_job:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
